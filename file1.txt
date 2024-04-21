@@ -1,0 +1,4 @@
+practicing bash
+new text file
+
+adding data to my file
